@@ -1,4 +1,5 @@
 # Brute force approach
+
 # Loop through each element and find if there is another such that their sum equals the target.
 
 
