@@ -9,4 +9,4 @@ class Solution(object):
                 if nums[i] + nums[j] == target:
                     return i, j
 
-Solution().twoSum([2, 7, 8], 15)
+print(Solution().twoSum([2, 7, 8], 15))
