@@ -12,4 +12,4 @@ class Solution:
             else:
                 lookup[number] = index
 
-Solution().twoSum([2, 7, 8], 15)
+print(Solution().twoSum([2, 7, 8], 15))
