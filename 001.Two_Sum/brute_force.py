@@ -1,5 +1,6 @@
 # Brute force approach
-# Loop through each element and find if there is another such that their sum equals the target
+# Loop through each element and find if there is another such that their sum equals the target.
+
 
 class Solution(object):
     def twoSum(self, nums, target):
