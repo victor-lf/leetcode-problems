@@ -11,5 +11,3 @@ class Solution:
                 return lookup[target - number], index
             else:
                 lookup[number] = index
-
-print(Solution().twoSum([2, 7, 8], 15))
