@@ -1,3 +1,5 @@
+# Inspired by this answer in Stack Overflow: https://stackoverflow.com/questions/44581339/reverse-32bit-integer
+
 # The limits are −2,147,483,648 and 2,147,483,647. The hex values of them are -0x80000000 and 0x7fffffff.
 # You can see that, for positive values: 
 # 2147483647 & 0x7fffffff = 2147483647; 1 & 0x7fffffff = 1; 780 & 0x7fffffff = 780
